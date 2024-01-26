@@ -1,6 +1,7 @@
 {
-  "name": "web",
+  "name": "dev-store",
   "version": "0.1.0",
+  "author": "Bruno S. Duarte",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -9,6 +10,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "lucide-react": "^0.316.0",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18"
