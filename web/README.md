@@ -1,36 +1,105 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img alt="Notes" src=".github/logo.svg" width="15%">
+</p>
+   <h1 align="center"> devstore </h1>
+ </p>
+<br />
+<p align="center"> 
+   <img src="https://img.shields.io/github/languages/count/brunosduarte/dev-store" alt="Languages">
+	<img src="https://img.shields.io/github/repo-size/brunosduarte/dev-store " alt="Repo Size"> 
+  	<a href="https://github.com/brunosduarte/dev-store/commits/master"> 
+   		<img src="https://img.shields.io/github/last-commit/brunosduarte/dev-store" alt="Last Commit"> 
+ 	</a> 
+  	<a href="https://opensource.org/licenses/MIT"> 
+   		<img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT"> 
+  	</a> 
+</p>
 
-## Getting Started
 
-First, run the development server:
+## 🗂 Contents
+
+
+- 📋 [Project](#-project)
+  - 🚀 [Technologies](#-technologies)
+  - 📷 [Preview](#-preview)
+- 📦 [Instalation](#-instalation)
+- ⚖️ [License](#%EF%B8%8F-license)
+- 📫 [Contact](#-contact)
+
+
+## 📋 Project
+
+[devstore][devstore] is an e-commerce application built in RocketSeat's Ignite course. The goal of this application was to apply the concepts introduced from Next 13, which essentially involve sending less JavaScript to the client side, using concepts such as Server Components to achieve this objective.
+Additionally, Cypress was also used in this application to perform end-to-end (E2E) tests on the web.
+
+### 🚀 Technologies
+
+- [OpenAI][openai]
+- [FFmpeg][ffmpeg]
+- [Radix][radix]
+- [TailwindCSS][tailwindcss]
+- [TypeScript][typescript]
+- [NodeJS][nodejs]
+- [Fastify][Fastify]
+- [Zod][zod]
+- [Prisma][prisma]
+- [Axios][axios]
+
+
+## 📷 Preview
+
+##### 💻 frontend:
+
+<p align="center"> 
+  <img alt="dev-store" src=".github/web.png" width="100%">
+</p>
+
+## 📦 Instalation
+
+To clone and run this application, you will need [Git][git], [NodeJS v18.17.1][nodejs] or higher + [npm v9.17.1][npm] or higher, and [PNPm 8.7.5][pnpm] installed on your computer. In your terminal, run:
+
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+# Cloning repo
+$ git clone https://github.com/brunosduarte/dev-store.git dev-store
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+```bash
+# Installing pnpm
+$ npm install -g pnpm
+```
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+```bash
+# Frontend
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+# Got to the repository
+$ cd web
 
-## Learn More
+# Install dependencies
+$ pnpm i
 
-To learn more about Next.js, take a look at the following resources:
+# Execute
+$ pnpm run dev
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## ⚖️ License
 
-## Deploy on Vercel
+This project is under license. [MIT](LICENSE).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 📫 Contact
+
+by [**Bruno Duarte**](https://www.linkedin.com/in/brunosduarte/) 🚀
+
+
+[nodejs]: https://nodejs.org/
+[PNPm]: https://pnpm.io/pt/
+[npm]: https://www.npmjs.com/
+[typescript]: https://www.typescriptlang.org/
+[openai]: https://www.openai.com/
+[ffmpeg]: https://www.ffmpeg.com/
+[radix]: https://www.radix.com/
+[tailwindcss]: https://www.tailwindcss.com/
+[git]: https://github.com/
+[devstore]: https://github.com/brunosduarte/dev-store
