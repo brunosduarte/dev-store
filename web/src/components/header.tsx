@@ -33,6 +33,7 @@ export function Header() {
             className="h-6 w-6 rounded-full"
             width={24}
             height={24}
+            alt=""
           />
         </Link>
       </div>
