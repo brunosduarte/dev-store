@@ -28,10 +28,12 @@ Additionally, Cypress was also used in this application to perform end-to-end (E
 
 ### 🚀 Technologies
 
-<a href="https://nextjs.org/" target="_blank"> <img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" alt="Next"> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" alt="TypeScript"> </a>
-<a href="https://tailwindui.com/documentation" target="_blank"> <img src="https://img.shields.io/badge/-Tailwind-0EA5E9?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind"> </a>
-<a href="https://docs.cypress.io/guides/overview/why-cypress" target="_blank"> <img src="https://img.shields.io/badge/-Cypress-00814d?style=flat-square&logo=cypress&logoColor=white" alt="Cypress"> </a>
+[![React.js](https://img.shields.io/badge/React.js-gray?logo=React)](https://react.dev)
+[![Node.js](https://img.shields.io/badge/Node.js-gray?logo=Node.js)](https://nodejs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-gray?logo=Next.js)](https://nextjs.org)
+[![TypeScript](https://img.shields.io/badge/TypeScript-gray?logo=TypeScript)](https://www.typescriptlang.org)
+[![TailwindCSS](https://img.shields.io/badge/TailwindCSS-gray?logo=TailwindCSS)](https://tailwindui.com)
+[![Cypress](https://img.shields.io/badge/Cypress-gray?logo=Cypress)](https://docs.cypress.io)
 
 ## 📷 Preview
 
