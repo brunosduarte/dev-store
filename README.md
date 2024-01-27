@@ -1,8 +1,5 @@
-<p align="center">
-  <img alt="devstore" src=".github/logo.svg" width="15%">
-</p>
-   <h1 align="center">devstore</h1>
- </p>
+<h1 align="center">devstore</h1>
+
 <br />
 <p align="center"> 
    <img src="https://img.shields.io/github/languages/count/brunosduarte/dev-store" alt="Languages">
@@ -41,7 +38,7 @@ Additionally, Cypress was also used in this application to perform end-to-end (E
 ##### 💻 frontend:
 
 <p align="center"> 
-  <img alt="dev-store" src=".github/web.png" width="100%">
+  <img alt="dev-store" src="cover.png" width="100%">
 </p>
 
 ## 📦 Instalation
