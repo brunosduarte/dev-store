@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Notes" src=".github/logo.svg" width="15%">
+  <img alt="devstore" src=".github/logo.svg" width="15%">
 </p>
    <h1 align="center">devstore</h1>
  </p>
