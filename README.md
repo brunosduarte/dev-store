@@ -23,7 +23,7 @@
 
 ## 📋 Project
 
-An e-commerce web application built in RocketSeat's Ignite course. The goal of this application was to apply the concepts introduced from Next 13, which essentially involve sending less JavaScript to the client side, using concepts such as Server Components to achieve this objective.
+An e-commerce web application built in RocketSeat's Ignite course. The goal of this application was to apply the concepts introduced from Next, which essentially involve sending less JavaScript to the client side, using concepts such as Server Components to achieve this objective.
 Additionally, Cypress was also used in this application to perform end-to-end (E2E) tests on the web.
 
 ### 🚀 Technologies
